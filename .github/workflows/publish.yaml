@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: sap-samples/tech-bytes-kyma-cicd
+  IMAGE_NAME: draschke/dr-sap-tech-bytes:latest
 
 jobs:
   run-tests:
