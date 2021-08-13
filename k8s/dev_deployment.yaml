@@ -14,7 +14,7 @@ spec:
         version: v1
     spec:
       containers:
-        - image: ghcr.io/sap-samples/tech-bytes-kyma-cicd:latest
+        - image: ghcr.io/draschke/draschke/dr-sap-tech-bytes:latest
           imagePullPolicy: Always
           name: tech-bytes
           ports:
