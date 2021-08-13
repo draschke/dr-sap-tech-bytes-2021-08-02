@@ -1,6 +1,6 @@
 {
   "name": "dr-sap-tech-bytes-2021-08-02",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
