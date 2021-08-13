@@ -43,6 +43,7 @@ spec:
   selector:
     app: tech-bytes
 
+
 ---
 apiVersion: gateway.kyma-project.io/v1alpha1
 kind: APIRule
