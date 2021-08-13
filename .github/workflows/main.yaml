@@ -3,7 +3,7 @@ name: Run Tests
 on:
   push:
     branches:
-      - 2021-08-02-github-actions-kyma
+      - dr-sap-tech-bytes-2021-08-02
 
 jobs:
   run-test:
