@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: draschke/dr-sap-tech-bytes:latest
+  IMAGE_NAME: draschke/dr-sap-tech-bytes
 
 jobs:
   run-tests:
